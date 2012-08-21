@@ -1,10 +1,1 @@
-$ mkdir ~/Trebol
-
-
-$ cd ~/Trebol
-
-
-$ git init
-
-
-$ touch README
+Working site files for Trebol PDX.
