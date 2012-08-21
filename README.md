@@ -1,4 +1,7 @@
-Trebol
-======
+$ mdir ~/Trebol
 
-New Site
+$cd ~/Trebol
+
+$ git ini
+
+$ touch README
